@@ -4,7 +4,6 @@ function acierto(lasTarjetas) {
   });
   document.querySelector("#sonido-acierto").play();
   }
- //
 
  function error(lasTarjetas) {
   lasTarjetas.forEach(function(elemento) {
