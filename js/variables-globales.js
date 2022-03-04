@@ -20,7 +20,7 @@ var niveles = [
   },
   {
     tarjetas: grupoTarjetas[0].concat(grupoTarjetas[1], grupoTarjetas[2]),
-    movimientosMax: 16
+    movimientosMax: 18
   },
   {
     tarjetas: grupoTarjetas[0].concat(
