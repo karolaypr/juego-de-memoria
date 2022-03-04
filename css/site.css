@@ -2,8 +2,8 @@
   --bg: #fafafa;
   --font: "Archivo", sans-serif;
   --font-display: "Archivo Narrow", sans-serif;
-  --hotpink: #e94057;
-  --orange: #f27121;
+  --hotpink: #4059e9;
+  --orange: #21f2ef;
   --gradient: linear-gradient(35deg, var(--orange), var(--hotpink));
 }
 
