@@ -1,6 +1,6 @@
 function iniciaCronometro() {
-  var segundos = 31;
-  var minutos = 0;
+  var segundos = 0;
+  var minutos = 1;
   var segundosTexto;
   var minutosTexto;
 

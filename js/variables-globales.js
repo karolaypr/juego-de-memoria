@@ -6,7 +6,7 @@ var grupoTarjetas = [
   ["festejo.png", "carnaval.png"],
   ["selva.png", "marinera.png", "bandera.png", "castillo.png"],
   ["chanchan.png", "costa.png", "huascaran.png", "lima.png"],
-  ["machuPicchu.png", "montana.png", "plaza.png", "amazonia.png"]
+  ["machuPicchu.png", "montana.png", "plaza.png", "amazonia.png"],
 ];
 var nivelActual = 0;
 var niveles = [

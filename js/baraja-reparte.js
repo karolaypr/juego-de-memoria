@@ -20,9 +20,8 @@ function reparteTarjetas(lasTarjetas) {
       elemento +
       ">" +
       "<div class='tarjeta__contenido'>" +
-      elemento +
-      "</div>" +
-      "</div>";
+      "<img src='img/" + elemento + "'/>"
+      "</div></div>";
 
     mesa.appendChild(tarjeta);
   });
