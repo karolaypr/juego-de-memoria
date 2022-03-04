@@ -10,6 +10,8 @@ function descubrir() {
   }
 
   this.classList.add("descubierta");
+
+  
   document
     .querySelector("#sonido-carta")
     .cloneNode()
