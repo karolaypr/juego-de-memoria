@@ -2,11 +2,11 @@ var modoRelax = false;
 var movimientos = 0;
 var cronometro;
 var grupoTarjetas = [
-  ["🦄", "🍦"],
-  ["🌈", "👽"],
-  ["👾", "🤖", "👹", "👺"],
-  ["🤡", "💩", "🎃", "🙀"],
-  ["☠️", "👾", "😽", "😼"]
+  ["alpaca.jpg", "gallito.jpg"],
+  ["festejo.jpg", "carnaval.jpg"],
+  ["selva.jpg", "marinera.jpg", "bandera.jpg", "castillo.jpg"],
+  ["chanchan.jpg", "costa.jpg", "huascaran.jpg", "lima.jpg"],
+  ["machuPicchu.jpg", "montana.jpg", "plaza.jpg", "amazonia.jpg"]
 ];
 var nivelActual = 0;
 var niveles = [
