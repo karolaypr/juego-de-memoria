@@ -19,7 +19,6 @@ body {
   text-align: center;
   z-index: 1;
 }
-
 .bienvenida.visible{
   display: flex;
 }
