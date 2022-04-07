@@ -4,6 +4,13 @@ body {
   flex-direction: column;
   position: relative;
 }
+footer {
+  text-align: center;
+  background-color: rgb(242, 240, 255);
+  font-weight: 8000;
+  font-size: 55%;
+  color: rgba(0, 0, 0, 0.4);
+}
 
 .bienvenida {
   display: none;
@@ -340,7 +347,8 @@ button:focus {
     display: flex;
     flex-direction: column;
     position: relative;
-    background: white;
+    background: white;    
+    align-content: center;
   }
   
   .bienvenida {
